@@ -1,0 +1,154 @@
+.head{
+    background-color:  whitesmoke;
+    font-weight: bold;
+    font-size: x-large;
+    padding:0px;
+    margin:0;
+    width: 1582px;
+}  
+.mission, .form
+{
+  position: relative;
+  font-weight: bolder;
+  font-size: xx-large;
+  background-repeat: no-repeat;
+  margin: 0;
+  background-position: center;
+  background-size: cover;
+  height: 600px;
+  width: 1582px;
+  padding-top: 20%;
+  padding-bottom: 10%;
+
+}
+.One{
+  position: relative;
+  position: relative;
+  font-weight: bolder;
+  font-size: xx-large;
+  background-repeat: no-repeat;
+  margin: 0;
+  background-position: center;
+  background-size: cover;
+  height: 600px;
+  width: 1582px;
+  padding-top: 20%;
+  padding-bottom: 10%;
+}
+.member, .three{
+  text-align: center;
+  font-size: xx-large;
+   background-repeat: no-repeat;
+   margin: 0;
+   background-position: center;
+   background-size: cover;
+   height: 600px;
+   width: 1582px;
+   padding-top: 20%;
+   margin-top: 0%;
+   background: linear-gradient(360deg, rgb(226, 154, 66), rgb(241, 239, 235), rgb(226, 154, 66));
+}
+.Contact{
+  text-align: center;
+  font-size: xx-large;
+   margin: 0;
+   width: 1582px;
+   padding:0;
+   background-color:  rgb(226, 154, 66);
+   height: 600px;
+   margin-top: 0;
+   padding-top: 10%;
+}
+.objectives{
+  text-align: center;
+  font-size: xx-large;
+   background-repeat: no-repeat;
+   margin: 0;
+   background-position: center;
+   background-size: cover;
+   height: 600px;
+   width: 1582px;
+   padding-top:10%;
+   margin-top: 0%;
+   background: linear-gradient(360deg, rgb(226, 154, 66), rgb(190, 185, 176), rgb(226, 154, 66));
+  
+  }
+  body{
+    text-align: center;
+    margin:0%;
+    padding:0;
+    background-color: rgb(226, 154, 66);
+}
+    
+.menu{
+  padding: 100px;
+  margin: 0%;
+}
+  
+
+.topnav
+{
+  background-color: rgb(138, 107, 107);
+    padding:10px;
+    background-color: white;
+    text-align: right;
+    font-weight: bolder;
+    overflow: hidden;
+    font-weight: bolder;
+      }
+      .topnav a {
+        float: left;
+        color: black;
+        text-align: center;
+        padding: 14px 16px;
+        text-decoration: none;
+        font-size: 17px;
+        margin: auto;
+      }
+      
+      .topnav a:hover {
+        background-color: burlywood;
+        color: maroon;
+      }
+      
+      .topnav a.active {
+        background-color: black;
+        color: white;
+      }
+      footer{
+        background-color: wheat;
+        text-align: center;
+        font-weight: bold;
+        margin: 0;
+        padding: 5px;
+
+      }
+      .demo-wrap {
+        overflow: hidden;
+        position: relative;
+      }
+      .demo-bg {
+        opacity: 0.5;
+        position:absolute;
+        left: 0;
+        top: 0;
+        width: 100%;
+        height: auto;
+      }
+      
+      .demo-content {
+        position: relative;
+      }
+      hr{
+        padding: 0;
+        margin:auto;
+      }
+      .gmail{
+        margin: auto;
+      }
+      .linkedin{
+        margin: auto;
+      }
+      .twitter{
+        margin: auto;
+      }
